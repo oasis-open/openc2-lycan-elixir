@@ -24,4 +24,4 @@ OASIS TC Open Repositories use the familiar [fork-and-pull](https://help.github.
 
 ## Feedback
 
-Questions or comments about this TC Open Repository's activities should be composed as GitHub issues or comments. If use of an issue/comment is not possible or appropriate, questions may be directed by email to the [repository Maintainers (https://github.com/OASIS-OP-Admin/oasis-lycan-elixir/blob/master/README.md). Please send general questions about TC Open Repository participation to OASIS Staff at mailto:repository-admin@oasis-open.org and any specific CLA-related questions to mailto:repository-cla@oasis-open.org.
+Questions or comments about this TC Open Repository's activities should be composed as GitHub issues or comments. If use of an issue/comment is not possible or appropriate, questions may be directed by email to the [repository Maintainers] (https://github.com/oasis-open/openc2-lycan-elixir/blob/master/README.md). Please send general questions about TC Open Repository participation to OASIS Staff at mailto:repository-admin@oasis-open.org and any specific CLA-related questions to mailto:repository-cla@oasis-open.org.
