@@ -2,7 +2,7 @@
 
 ## OASIS TC Open Repository: openc2-lycan-elixir
 
-This GitHub public repository[openc2-lycan-elixir](https://github.com/oasis-open/openc2-lycan-elixir/) was created at the request of the [OASIS Open Command and Control (OpenC2)](https://www.oasis-open.org/committees/openc2/)as an [OASIS TC Open Repository](https://www.oasis-open.org/resources/open-repositories/) to support development of open source resources related to Technical Committee work.
+This GitHub public repository [openc2-lycan-elixir](https://github.com/oasis-open/openc2-lycan-elixir/) was created at the request of the [OASIS Open Command and Control (OpenC2)](https://www.oasis-open.org/committees/openc2/)as an [OASIS TC Open Repository](https://www.oasis-open.org/resources/open-repositories/) to support development of open source resources related to Technical Committee work.
 
 While this TC Open Repository remains associated with the sponsor TC, its development priorities, leadership, intellectual property terms, participation rules, and other matters of governance are [separate and distinct](https://github.com/OASIS-OP-Admin/openc2-lycan-elixir/blob/master/CONTRIBUTING.md) from the OASIS TC Process and related policies.
 
