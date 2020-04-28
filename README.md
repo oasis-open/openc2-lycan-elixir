@@ -4,11 +4,11 @@
 
 This GitHub public repository [openc2-lycan-elixir](https://github.com/oasis-open/openc2-lycan-elixir/) was created at the request of the [OASIS Open Command and Control (OpenC2)](https://www.oasis-open.org/committees/openc2/)as an [OASIS TC Open Repository](https://www.oasis-open.org/resources/open-repositories/) to support development of open source resources related to Technical Committee work.
 
-While this TC Open Repository remains associated with the sponsor TC, its development priorities, leadership, intellectual property terms, participation rules, and other matters of governance are [separate and distinct](https://github.com/OASIS-OP-Admin/openc2-lycan-elixir/blob/master/CONTRIBUTING.md) from the OASIS TC Process and related policies.
+While this TC Open Repository remains associated with the sponsor TC, its development priorities, leadership, intellectual property terms, participation rules, and other matters of governance are [separate and distinct](https://github.com/oasis-open/openc2-lycan-elixir/blob/master/CONTRIBUTING.md) from the OASIS TC Process and related policies.
 
 All contributions made to this TC Open Repository are subject to open source license terms expressed in the [MIT License](https://www.oasis-open.org/sites/www.oasis-open.org/files/MIT-License.txt). That license was selected as the declared [applicable license](https://www.oasis-open.org/resources/open-repositories/licenses) when the TC Open Repository was created.
 
-As documented in [Public Participation Invited](https://github.com/OASIS-OP-Admin/openc2-lycan-elixir/blob/master/CONTRIBUTING.md), contributions to this OASIS TC Open Repository are invited from all parties, whether affiliated with OASIS or not. Participants must have a GitHub account, but no fees or OASIS membership obligations are required. Participation is expected to be consistent with the [OASIS TC Open Repository Guidelines and Procedures](https://www.oasis-open.org/policies-guidelines/open-repositories), the open source [LICENSE](https://github.com/OASIS-OP-Admin/openc2-lycan-elixir/blob/master/LICENSE.md) designated for this particular repository, and the requirement for an [Individual Contributor License Agreement](https://www.oasis-open.org/resources/open-repositories/cla/individual-cla) that governs intellectual property.
+As documented in [Public Participation Invited](https://github.com/oasis-open/openc2-lycan-elixir/blob/master/CONTRIBUTING.md), contributions to this OASIS TC Open Repository are invited from all parties, whether affiliated with OASIS or not. Participants must have a GitHub account, but no fees or OASIS membership obligations are required. Participation is expected to be consistent with the [OASIS TC Open Repository Guidelines and Procedures](https://www.oasis-open.org/policies-guidelines/open-repositories), the open source [LICENSE](https://github.com/oasis-open/openc2-lycan-elixir/blob/master/LICENSE.md) designated for this particular repository, and the requirement for an [Individual Contributor License Agreement](https://www.oasis-open.org/resources/open-repositories/cla/individual-cla) that governs intellectual property.
 
 ## Statement of Purpose
 
@@ -24,7 +24,7 @@ The OASIS OpenC2 Technical Committee was chartered to address matters as they pe
 
 ## <a id="maintainers">Maintainers</a>
 
-TC Open Repository [Maintainers](https://www.oasis-open.org/resources/open-repositories/maintainers-guide) are responsible for oversight of this project's community development activities, including evaluation of GitHub [pull requests](https://github.com/OASIS-OP-Admin/openc2-lycan-elixir/blob/master/CONTRIBUTING.md) and [preserving](https://www.oasis-open.org/policies-guidelines/open-repositories#repositoryManagement) open source principles of openness and fairness. Maintainers are recognized and trusted experts who serve to implement community goals and consensus design preferences.
+TC Open Repository [Maintainers](https://www.oasis-open.org/resources/open-repositories/maintainers-guide) are responsible for oversight of this project's community development activities, including evaluation of GitHub [pull requests](https://github.com/oasis-open/openc2-lycan-elixir/blob/master/CONTRIBUTING.md) and [preserving](https://www.oasis-open.org/policies-guidelines/open-repositories#repositoryManagement) open source principles of openness and fairness. Maintainers are recognized and trusted experts who serve to implement community goals and consensus design preferences.
 
 Initially, the TC members have designated one or more persons to serve as Maintainer(s); subsequently, participating community members may select additional or substitute Maintainers, by [consensus agreements](https://www.oasis-open.org/resources/open-repositories/maintainers-guide#additionalMaintainers). 
 
@@ -36,7 +36,7 @@ Current Maintainers of this TC Open Repository are:
 
 - [TC Open Repositories: Overview and Resources](https://www.oasis-open.org/resources/open-repositories/)
 
-- [Frequently Asked Questions]https://www.oasis-open.org/resources/open-repositories/faq)
+- [Frequently Asked Questions](https://www.oasis-open.org/resources/open-repositories/faq)
 
 - [Open Source Licenses](https://www.oasis-open.org/resources/open-repositories/licenses)
 
