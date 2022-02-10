@@ -1,4 +1,4 @@
-# LICENSE
+MIT LICENSE
 
 Copyright 2020 OASIS Open
 
